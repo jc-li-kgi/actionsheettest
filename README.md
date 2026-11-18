@@ -12,6 +12,7 @@
 |---|---|
 | `action-sheet-flow.component.ts` | 原始碼（單一檔案）。`KgiSheetFlow` + `KgiSheet`（通用元件）、`KgiIcon`、`IdConfirmDemoComponent`（確認證件資料範例） |
 | `action-sheet-flow.html` | 上面那份原始碼編譯後的單一 html（CSS、JS、icon 都內嵌），雙擊就能開，不用伺服器。**是編譯成品，不要直接編輯** |
+| `index.html` | `action-sheet-flow.html` 的完整複本，讓 GitHub Pages 的根網址直接開到互動頁面。更新 html 時兩個檔案要一起換 |
 
 ## 直接看效果
 
