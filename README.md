@@ -1,5 +1,7 @@
 # ActionSheetFlow（Angular 版）
 
+**▶ [點這裡看互動（線上）](https://jc-li-kgi.github.io/actionsheettest/action-sheet-flow.html)**　點「確認證件資料」，再點表單裡任一個下拉。
+
 底部彈窗流程：**表單 → 選項列表 → 回到表單**。表單裡點下拉時，表單先往下收起，再展開選項列表；點選項後列表收起，表單再展開並帶入選的值。同一個遮罩全程不動，表單的捲動位置會保留。
 
 對應 Figma：銀證雙開＿External「確認證件資料」→「產品類型」選項列表。
